@@ -1,1 +1,1 @@
-wilds
+git+git://github.com/itsjohnward/wilds.git@main#egg=wilds
